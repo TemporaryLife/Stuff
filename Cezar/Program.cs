@@ -126,7 +126,7 @@ namespace Cezar
             /*var Test1 = new Vijener();
             Console.WriteLine(Test1.ToVijener(@"C:\Users\Konstantin\Downloads\text.txt", "Lemon", true));*/
 
-            var rnd = new Random();
+            /*var rnd = new Random();
             int p = rnd.Next(1, 10);
 
 
@@ -141,7 +141,10 @@ namespace Cezar
             Console.WriteLine($"B: {A2.X}");
 
             Console.WriteLine(A1.GetKey(A2.X));
-            Console.WriteLine(A2.GetKey(A1.X));
+            Console.WriteLine(A2.GetKey(A1.X));*/
+
+            decimal i=135136712371124265124123136m%317;
+            Console.WriteLine(i);
 
 
         }
